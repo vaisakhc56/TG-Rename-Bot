@@ -27,7 +27,7 @@ This is a Telegram Rename Bot!
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
    
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/yYHrSnuYXpA">Diploy</a>
+<b>👉 Rename any file</b>
 
 --------
 
